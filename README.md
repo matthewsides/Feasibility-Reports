@@ -4,8 +4,17 @@ Modified-01/12/2017
 
 Author-MatthewSides
 
+Contents-
 
-# Feasibility Reports Definition
+[1] Feasibility Reports Definition
+
+[2] Purpose
+
+[3] Feasibility Report Components
+
+[4] Impact of different feasibility criteria 
+
+## Feasibility Reports Definition
 A feasibility report is a document that assesses potential solutions to the business problem or opportunity, and determines which of these are viable for further analysis.
 ## Purpose
 The purpose of the feasibility report as highlighted above, is to present the project parameters and define the potential solutions to the defined problem or opportunity. Furthermore once a set of solutions have been layed out or brain stormed, the potential solutions are then expanded upon, providing sufficient detail, including very high-level costing information, the solutions deemed viable are then taken to the approving authority for further analysis. Project constraints and limitations of expenditure are among the various factors that will determine viability.

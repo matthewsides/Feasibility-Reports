@@ -20,13 +20,26 @@ A feasibility report is a document that assesses potential solutions to the busi
 ## Purpose
 The purpose of the feasibility report as highlighted above, is to present the project parameters and define the potential solutions to the defined problem or opportunity. Furthermore once a set of solutions have been layed out or brain stormed, the potential solutions are then expanded upon, providing sufficient detail, including very high-level costing information, the solutions deemed viable are then taken to the approving authority for further analysis. Project constraints and limitations of expenditure are among the various factors that will determine viability.
 
-### Requirment Gathering
+### Requirement Gathering
 
 Requirement Gathering is essentially the act of collecting the requirements of a system from user's, customers and other stakeholders. 
 
 Furthermore during this phase an analysis of the current  market's requirements and features that are in demand are covered, delving into the supply and demand aspect of the market seeing whether there is a real need for the software that is being developed in the current market. This essentially molds the requirements.
 
 ### Structure 
+
+
+
+### Intended audience 
+
+The intended audience essentially links to 
+
+### Functional and Non Functional requirements 
+
+### User requirements 
+
+
+### Constraints
 
 
 

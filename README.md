@@ -26,13 +26,15 @@ Requirement Gathering is essentially the act of collecting the requirements of a
 
 Furthermore during this phase an analysis of the current  market's requirements and features that are in demand are covered, delving into the supply and demand aspect of the market seeing whether there is a real need for the software that is being developed in the current market. This essentially molds the requirements.
 
+Review and Research is the systematic investigation into materials and sources in order to establish facts and reach new conclusions.The review is factored in when formulating conclusions based on the research, doing a formal assessment instituting change if necessary.
+
 The structure essentially pertains to the layoutand order of the proccess or tasks  set to be carried out. Whilst the intended audience is the group of people for which a service or product is designed for. This links into the market analysis as depending on the markets situtation and supply and demand of the product based on groups will determine who the product is for.
 
 The functional requirements essentially pertain to or define specific behavior or functions.Whilst the non functional requirements  specify criteria that can be used to judge the operation of a system, rather than specific behaviors. User requirements are fudemental in development and in essence relate to what the user expects the software to be able to do.
 
 A constraint is fudementally a limitation or restriction that could either be human or technological, with constraints being put in place on purpose to better suit a user's, clients or other stack holders needs or occuring due to software or hardware capabilitys. 
 
-
+The outcome is the end result, that has occured as a consequence of the decision and actions made prior.
 
 ## Feasibility Report Components
 

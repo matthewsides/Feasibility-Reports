@@ -20,7 +20,7 @@ A feasibility report is a document that assesses potential solutions to the busi
 ## Purpose
 The purpose of the feasibility report as highlighted above, is to present the project parameters and define the potential solutions to the defined problem or opportunity. Furthermore once a set of solutions have been layed out or brain stormed, the potential solutions are then expanded upon, providing sufficient detail, including very high-level costing information, the solutions deemed viable are then taken to the approving authority for further analysis. Project constraints and limitations of expenditure are among the various factors that will determine viability.
 
-### Requirement Gathering
+### Aspects
 
 Requirement Gathering is essentially the act of collecting the requirements of a system from user's, customers and other stakeholders. 
 
@@ -28,15 +28,9 @@ Furthermore during this phase an analysis of the current  market's requirements 
 
 The structure essentially pertains to the layoutand order of the proccess or tasks  set to be carried out. Whilst the intended audience is the group of people for which a service or product is designed for. This links into the market anaylisis as depending on the markets situtation and supply and demand of the product based on groups will determine who the product is for.
 
-The functional requirements essentially pertain to or define specific behavior or functions.Whilst the non functional requirements  specify criteria that can be used to judge the operation of a system, rather than specific behaviors.
+The functional requirements essentially pertain to or define specific behavior or functions.Whilst the non functional requirements  specify criteria that can be used to judge the operation of a system, rather than specific behaviors. User requirements are fudemental in development and in essence relate to what the user expects the software to be able to do.
 
-
-
-
-### User requirements 
-
-
-### Constraints
+A constraint is fudementally a limitation or restriction that could either be human or technological, with constraints being put in place on purpose to better suit a user's, clients or other stack holders needs or occuring due to software or hardware capabilitys. 
 
 
 

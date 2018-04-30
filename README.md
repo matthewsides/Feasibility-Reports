@@ -26,7 +26,7 @@ Requirement Gathering is essentially the act of collecting the requirements of a
 
 Furthermore during this phase an analysis of the current  market's requirements and features that are in demand are covered, delving into the supply and demand aspect of the market seeing whether there is a real need for the software that is being developed in the current market. This essentially molds the requirements.
 
-The structure essentially pertains to the layoutand order of the proccess or tasks  set to be carried out. Whilst the intended audience is the group of people for which a service or product is designed for. This links into the market anaylisis as depending on the markets situtation and supply and demand of the product based on groups will determine who the product is for.
+The structure essentially pertains to the layoutand order of the proccess or tasks  set to be carried out. Whilst the intended audience is the group of people for which a service or product is designed for. This links into the market analysis as depending on the markets situtation and supply and demand of the product based on groups will determine who the product is for.
 
 The functional requirements essentially pertain to or define specific behavior or functions.Whilst the non functional requirements  specify criteria that can be used to judge the operation of a system, rather than specific behaviors. User requirements are fudemental in development and in essence relate to what the user expects the software to be able to do.
 
